@@ -1,7 +1,0 @@
-SELECT TOP (1000) [id]
-      ,[name]
-      ,[salary]
-      ,[post]
-      ,[location]
-      ,[date_of_join]
-  FROM [DB5L57MB].[dbo].[Employee]
